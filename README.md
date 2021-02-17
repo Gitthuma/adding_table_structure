@@ -11,3 +11,5 @@ Active learning: Adding table structure
 5. Next, add a colspan attribute to make the "SUM" cell span across the first four columns, so the actual number appears at the bottom of the "Cost" column.
 
 6. Let's add some simple extra styling to the table, to give you an idea of how useful these elements are for applying CSS. Inside the head of your HTML document, you'll see an empty &lt;style&gt; element.
+
+Live web: https://gitthuma.github.io/adding_table_structure/
